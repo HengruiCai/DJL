@@ -1,6 +1,6 @@
 # Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings
 
-This repository is the official implementation of [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/pdf/2010.15963.pdf).
+This repository is the official implementation of [Deep Jump Learning for Off-Policy Evaluation in Continuous Treatment Settings](https://arxiv.org/pdf/2010.15963.pdf) (NeurIPS, 2021).
 
 ## Introduction
 
